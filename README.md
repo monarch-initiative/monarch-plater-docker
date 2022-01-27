@@ -37,3 +37,9 @@ docker build --tag plater-dev .
 docker tag plater-dev us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
 docker push us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
 ```
+
+To push the image to
+
+```
+gcloud compute instances update-container monarch-trapi --container-image=us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
+```
