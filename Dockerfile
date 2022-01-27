@@ -9,6 +9,7 @@ WORKDIR /home/plater
 RUN git clone https://github.com/TranslatorSRI/Plater.git
 WORKDIR /home/plater/Plater
 COPY . /home/plater/Plater
+COPY openapi-config.yaml /home/plater/Plater/PLATER
 
 
 ENV PYTHONPATH=/home/plater/Plater

@@ -28,3 +28,12 @@ docker run -d --name plater -p 9000:8000 monarchinitiative/plater-sri:latest
 # TODO move this to google cloud and add instructions
 ```
 
+#### Building the docker image on GCP and deploying artifact registry
+
+TODO: change from plater-sri:dev to plater-sri:latest
+
+```
+docker build --tag plater-dev .
+docker tag plater-dev us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
+docker push us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
+```
