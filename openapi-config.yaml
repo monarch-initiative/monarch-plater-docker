@@ -1,22 +1,30 @@
 # Adds more configs to default open api config
-contact:
-  email: "kevin@tislab.org" 
-  name: "Kevin Schaper" 
-  x-id: "https://github.com/kevinschaper" 
-  x-role: "responsible developer" 
-termsOfService: "http://robokop.renci.org:7055/tos?service_long=Reference+KG+API&provider_long=the+Translator+Consortium" # link to terms of service
-tags:
-  - name: trapi
-description: "The SRI reference KG aims to aggregate knowledge sources across translator using KGX.  The initial graph contains
-  data files provided by the Monarch Initiative and several ontologies." # Description for the whole spec
-title: "SRI Reference Knowledge Graph API" # title for the whole spec, overrides PLATER_TITLE env value
+info:
+  description: "The SRI reference KG aims to aggregate knowledge sources across translator using KGX.  The initial graph contains
+    data files provided by the Monarch Initiative and several ontologies." # Description for the whole spec
+  title: "SRI Reference Knowledge Graph API" # title for the whole spec, overrides PLATER_TITLE env value
+  version: 2.0.0
+  contact:
+    email: "kevin@tislab.org"
+    name: "Kevin Schaper"
+    x-id: "https://github.com/kevinschaper"
+    x-role: "responsible developer"
+  license:
+    name: License To Be Determined
+    url: TBD
+  termsOfService: "https://monarchinitiative.org/about/licensing"# link to terms of service
+  x-translator:
+    component: KP
+    team:
+      - Standards Reference Implementation Team
+    biolink-version: 2.2.0
+  x-trapi:
+    version: 1.2.0
 servers:
   - description: Default server
     url: https://trapi.monarchinitiative.org
-x-translator:
-  component: KP
-  team:
-    - Standards Reference Implementation Team
-  biolink-version: # picked up from environment variable `BL_VERSION`
-x-trapi:
-  version: 1.2.0
+tags:
+  - name: translator
+    description: Required for SmartAPI validation of x-translator
+  - name: trapi
+    description: Required for SmartAPI validation of x-trapi
