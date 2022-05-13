@@ -1,4 +1,4 @@
-#### Plater SRI Fork
+#### Monarch Plater
 
 Contains the open api conf and Dockerfile specific to building https://trapi.monarchinitiative.org
 
