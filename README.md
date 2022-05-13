@@ -16,18 +16,6 @@ PLATER_VERSION='1.1.0'
 BL_VERSION=2.1.0
 ```
 
-Build, push to DockerHub, and deploy
-```
-docker build --tag plater-dev .
-docker tag plater-dev monarchinitiative/plater-sri:latest
-docker push monarchinitiative/plater-sri:latest
-
-# On the OSU Monarch servers map to port 9000, otherwise 80 or 443
-docker run -d --name plater -p 9000:8000 monarchinitiative/plater-sri:latest
-
-# TODO move this to google cloud and add instructions
-```
-
 #### Building the docker image on GCP and deploying artifact registry
 
 TODO: change from plater-sri:dev to plater-sri:latest
