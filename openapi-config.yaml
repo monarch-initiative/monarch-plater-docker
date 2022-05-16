@@ -19,7 +19,7 @@ x-trapi:
 x-type: api documentation
 servers:
 - description: Default server
-  url: https://trapi.monarchinitiative.org
+  url: https://trapi.monarchinitiative.org/1.2
 tags:
 - name: translator
 - name: trapi
