@@ -16,6 +16,7 @@ x-translator:
   biolink-version:
 x-trapi:
   version: 1.2.0
+  test_data_location: https://raw.githubusercontent.com/monarch-initiative/monarch-plater-docker/main/test_data/sri_reference_kg_test_data.json
 x-type: api documentation
 servers:
 - description: Default server
