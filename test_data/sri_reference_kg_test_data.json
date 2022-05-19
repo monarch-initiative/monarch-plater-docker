@@ -1,0 +1,747 @@
+{
+  "url": "trapi.monarchinitiative.org/1.2",
+  "edges": [
+    {
+      "subject_category": "biolink:BiologicalProcess",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:MolecularEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "Disease",
+      "object_category": "Phenotype",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularComponent",
+      "object_category": "biolink:MolecularFunction",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:BiologicalProcess",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "Quality",
+      "object_category": "Quality",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "Disease",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "Gene",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:MolecularEntity",
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:MolecularFunction",
+      "object_category": "biolink:MolecularEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:BiologicalProcess",
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:CellularProcess",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:MolecularEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": "biolink:ReagentTargetedGene",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "Organism",
+      "object_category": "Organism",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:BiologicalProcess",
+      "object_category": "biolink:CellularProcess",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "Association",
+      "object_category": "Phenotype",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularProcess",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:CellularComponent",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:BiologicalProcess",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:BiologicalProcess",
+      "object_category": "biolink:CellularProcess",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "Phenotype",
+      "object_category": "Phenotype",
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:AnatomicalEntity",
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:type",
+      "subject": "IAO:0000226",
+      "object": "IAO:0000225"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:active_in",
+      "subject": "POMBASE:SPAC1002.01",
+      "object": "GO:0016021"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:actively_involved_in",
+      "subject": "POMBASE:SPAC1002.01",
+      "object": "GO:0140053"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of",
+      "subject": "SGD:S000004163",
+      "object": "GO:0034497"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_negative_effect",
+      "subject": "SGD:S000003148",
+      "object": "GO:0034497"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_or_within",
+      "subject": "SGD:S000002259",
+      "object": "GO:0006303"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_or_within_negative_effect",
+      "subject": "WB:WBGene00000039",
+      "object": "GO:0045026"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_or_within_positive_effect",
+      "subject": "SGD:S000001871",
+      "object": "GO:0042791"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_positive_effect",
+      "subject": "SGD:S000000065",
+      "object": "GO:0032079"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:affects",
+      "subject": "GO:0003409",
+      "object": "UBERON:0003072"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:affects_localization_of",
+      "subject": "GO:0000001",
+      "object": "GO:0005739"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:affects_transport_of",
+      "subject": "GO:0035942",
+      "object": "CHEBI:28689"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:associated_with",
+      "subject": "MONDO:0002442",
+      "object": "HP:0011675"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:capable_of",
+      "subject": "GO:1990305",
+      "object": "GO:0004842"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:category",
+      "subject": "OBO:XPO_0127690",
+      "object": "biolink:NamedThing"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:caused_by",
+      "subject": "GO:0099156",
+      "object": "GO:0070062"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:causes",
+      "subject": "GO:1900383",
+      "object": "GO:0048167"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:coexists_with",
+      "subject": "UBERON:0005984",
+      "object": "UBERON:0002349"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:colocalizes_with",
+      "subject": "POMBASE:SPCC895.07",
+      "object": "GO:0035371"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:MolecularActivity",
+      "predicate": "biolink:contributes_to",
+      "subject": "POMBASE:SPAC1002.06c",
+      "object": "GO:0030674"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:correlated_with",
+      "subject": "PATO:0002247",
+      "object": "PATO:0000014"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:derives_from",
+      "subject": "FOODON:00001176",
+      "object": "FOODON:00002452"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:develops_from",
+      "subject": "CL:0000875",
+      "object": "CL:0002393"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:disrupts",
+      "subject": "MONDO:0006582",
+      "object": "CL:0000148"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:MolecularActivity",
+      "predicate": "biolink:enables",
+      "subject": "POMBASE:SPAC1002.01",
+      "object": "GO:0003674"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:expressed_in",
+      "subject": "SGD:S000002429",
+      "object": "GO:1990316"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:expresses",
+      "subject": "FBbt:00005899",
+      "object": "OBO:FlyBase_FBgn0010433"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Disease",
+      "predicate": "biolink:gene_associated_with_condition",
+      "subject": "OMIM:609300",
+      "object": "OMIM:202110"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_attribute",
+      "subject": "CHEBI:58351",
+      "object": "CHEBI:23357"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_input",
+      "subject": "GO:0004947",
+      "object": "CHEBI:132988"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_output",
+      "subject": "GO:0010432",
+      "object": "PO:0009055"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_part",
+      "subject": "GO:0033214",
+      "object": "GO:0098711"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_participant",
+      "subject": "GO:0033524",
+      "object": "CHEBI:60935"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:PhenotypicFeature",
+      "predicate": "biolink:has_phenotype",
+      "subject": "ZFIN:ZDB-GENE-210324-7",
+      "object": "ZP:0012643"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_unit",
+      "subject": "OBI:0001171",
+      "object": "UO:0000003"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:has_variant_part",
+      "subject": "GENO:0000839",
+      "object": "GENO:0000504"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:homologous_to",
+      "subject": "UBERON:0002366",
+      "object": "UBERON:0000460"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:in_taxon",
+      "subject": "NCBITaxon:213849",
+      "object": "NCBITaxon:213849"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:increases_degradation_of",
+      "subject": "GO:0048285",
+      "object": "GO:0043226"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:interacts_with",
+      "subject": "FBbt:00003788",
+      "object": "FBbt:00003852"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:inverseOf",
+      "subject": "RO:0002500",
+      "object": "RO:0002608"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:located_in",
+      "subject": "POMBASE:SPAC4F10.14c",
+      "object": "GO:0042788"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:location_of",
+      "subject": "UBERON:0000039",
+      "object": "UBERON:0000038"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:model_of",
+      "subject": "FOODON:00001854",
+      "object": "FOODON:00001248"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:negatively_regulates",
+      "subject": "GO:1905569",
+      "object": "GO:0031169"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:object",
+      "subject": "GENO:0000833",
+      "object": "UPHENO:0001001"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:occurs_in",
+      "subject": "GO:0007036",
+      "object": "GO:0005773"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Gene",
+      "predicate": "biolink:orthologous_to",
+      "subject": "HGNC:11629",
+      "object": "MGI:103180"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:overlaps",
+      "subject": "UBERON:0001508",
+      "object": "UBERON:0001515"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:part_of",
+      "subject": "POMBASE:SPAC1002.02",
+      "object": "GO:0005643"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:participates_in",
+      "subject": "GO:0110016",
+      "object": "GO:0035066"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:positively_regulates",
+      "subject": "GO:0045938",
+      "object": "GO:0050802"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:preceded_by",
+      "subject": "UBERON:8200006",
+      "object": "UBERON:8200005"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:precedes",
+      "subject": "FBdv:00007001",
+      "object": "FBdv:00005370"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:produced_by",
+      "subject": "UBERON:0002306",
+      "object": "UBERON:0015786"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:produces",
+      "subject": "CL:0000062",
+      "object": "UBERON:0008883"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:regulates",
+      "subject": "GO:2000722",
+      "object": "GO:0060947"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:related_to",
+      "subject": "XAO:0005056",
+      "object": "XAO:1000047"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Disease",
+      "predicate": "biolink:risk_affected_by",
+      "subject": "OMIM:600451",
+      "object": "OMIM:614279"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:subPropertyOf",
+      "subject": "RO:0002372",
+      "object": "RO:0002567"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:subclass_of",
+      "subject": "ZP:0016973",
+      "object": "MP:0005405"
+    },
+    {
+      "subject_category": null,
+      "object_category": null,
+      "predicate": "biolink:temporally_related_to",
+      "subject": "ZFA:0005851",
+      "object": "ZFS:0000000"
+    },
+    {
+      "subject_category": "biolink:Chemical",
+      "object_category": "biolink:PhenotypicFeature",
+      "predicate": "biolink:treats",
+      "subject": "MESH:C046983",
+      "object": "MESH:D054198"
+    }
+  ]
+}
