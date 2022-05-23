@@ -128,7 +128,7 @@
       "object": "GO:0005643"
     },
     {
-      "subject_category": "biolink:Chemical",
+      "subject_category": "biolink:ChemicalEntity",
       "object_category": "biolink:Pathway",
       "predicate": "biolink:participates_in",
       "subject": "CHEBI:10033",
@@ -142,7 +142,7 @@
       "object": "OMIM:614279"
     },
     {
-      "subject_category": "biolink:Chemical",
+      "subject_category": "biolink:ChemicalEntity",
       "object_category": "biolink:PhenotypicFeature",
       "predicate": "biolink:treats",
       "subject": "MESH:C046983",
