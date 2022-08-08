@@ -19,4 +19,4 @@ x-translator:
     - Standards Reference Implementation Team
   biolink-version: # picked up from environment variable `BL_VERSION`
 x-trapi:
-  version: 1.2.0
+  version: 1.3.0
