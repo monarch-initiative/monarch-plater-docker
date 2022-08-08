@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('build-container') {
             steps {
+	        sh 'gcloud auth configure-docker'
                 sh 'docker build --tag plater-dev .'
                 sh 'docker tag plater-dev us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev'
                 sh 'docker push us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev'
