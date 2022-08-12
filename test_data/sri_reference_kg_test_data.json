@@ -1,0 +1,152 @@
+{
+  "url": "https://trapi.monarchinitiative.org/1.2",
+  "edges": [
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:active_in",
+      "subject": "POMBASE:SPAC1002.01",
+      "object": "GO:0016021"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:actively_involved_in",
+      "subject": "POMBASE:SPAC1002.01",
+      "object": "GO:0140053"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of",
+      "subject": "SGD:S000004163",
+      "object": "GO:0034497"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_negative_effect",
+      "subject": "SGD:S000003148",
+      "object": "GO:0034497"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_or_within",
+      "subject": "SGD:S000002259",
+      "object": "GO:0006303"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_or_within_negative_effect",
+      "subject": "WB:WBGene00000039",
+      "object": "GO:0045026"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_or_within_positive_effect",
+      "subject": "SGD:S000001871",
+      "object": "GO:0042791"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:BiologicalProcess",
+      "predicate": "biolink:acts_upstream_of_positive_effect",
+      "subject": "SGD:S000000065",
+      "object": "GO:0032079"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:colocalizes_with",
+      "subject": "POMBASE:SPCC895.07",
+      "object": "GO:0035371"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:MolecularActivity",
+      "predicate": "biolink:contributes_to",
+      "subject": "POMBASE:SPAC1002.06c",
+      "object": "GO:0030674"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:MolecularActivity",
+      "predicate": "biolink:enables",
+      "subject": "POMBASE:SPAC1002.01",
+      "object": "GO:0003674"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:AnatomicalEntity",
+      "predicate": "biolink:expressed_in",
+      "subject": "SGD:S000002429",
+      "object": "GO:1990316"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Disease",
+      "predicate": "biolink:gene_associated_with_condition",
+      "subject": "OMIM:609300",
+      "object": "OMIM:202110"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:PhenotypicFeature",
+      "predicate": "biolink:has_phenotype",
+      "subject": "ZFIN:ZDB-GENE-210324-7",
+      "object": "ZP:0012643"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Gene",
+      "predicate": "biolink:interacts_with",
+      "subject": "NCBIGene:381",
+      "object": "NCBIGene:23527"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:located_in",
+      "subject": "POMBASE:SPAC4F10.14c",
+      "object": "GO:0042788"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Gene",
+      "predicate": "biolink:orthologous_to",
+      "subject": "HGNC:11629",
+      "object": "MGI:103180"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:CellularComponent",
+      "predicate": "biolink:part_of",
+      "subject": "POMBASE:SPAC1002.02",
+      "object": "GO:0005643"
+    },
+    {
+      "subject_category": "biolink:ChemicalEntity",
+      "object_category": "biolink:Pathway",
+      "predicate": "biolink:participates_in",
+      "subject": "CHEBI:10033",
+      "object": "REACT:R-BTA-6806664"
+    },
+    {
+      "subject_category": "biolink:Gene",
+      "object_category": "biolink:Disease",
+      "predicate": "biolink:risk_affected_by",
+      "subject": "OMIM:600451",
+      "object": "OMIM:614279"
+    },
+    {
+      "subject_category": "biolink:ChemicalEntity",
+      "object_category": "biolink:PhenotypicFeature",
+      "predicate": "biolink:treats",
+      "subject": "MESH:C046983",
+      "object": "MESH:D054198"
+    }
+  ]
+}

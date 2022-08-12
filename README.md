@@ -1,4 +1,4 @@
-#### Plater SRI Fork
+#### Monarch Plater
 
 Contains the open api conf and Dockerfile specific to building https://trapi.monarchinitiative.org
 
@@ -15,7 +15,6 @@ PLATER_TITLE='Plater'
 PLATER_VERSION='1.1.0'
 BL_VERSION=2.1.0
 ```
-
 
 #### Building the docker image on GCP and deploying artifact registry
 
