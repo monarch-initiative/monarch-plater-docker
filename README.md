@@ -18,11 +18,10 @@ BL_VERSION=2.1.0
 
 #### Building the docker image on GCP and deploying artifact registry
 
-TODO: change from plater-sri:dev to plater-sri:latest
 
 ```
-docker build --tag plater-dev .
-docker tag plater-dev us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
+docker build --tag plater-sri .
+docker tag plater-sri us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
 docker push us-central1-docker.pkg.dev/monarch-initiative/monarch-initiative/plater-sri:dev
 ```
 
